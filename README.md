@@ -5,7 +5,7 @@ Modelagem de banco de dados relacional contendo esquema físico das tabelas e se
 
 Regras de Negócios (RN):
 
-RN01
+RN01**
 Um produto pode ter nenhum ou vários vídeos associados, e cada vídeo somente pode exibido caso seu status esteja em “A” (ativo).
 RN02*
 O código de identificação do produto deve ser um número sequencial para ser utilizado como SEQUENCE e crescente de acordo com novos produtos que forem sendo cadastrados.
