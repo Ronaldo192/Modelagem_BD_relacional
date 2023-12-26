@@ -7,9 +7,9 @@ Regras de Negócios (RN):
 
 RN01
 Um produto pode ter nenhum ou vários vídeos associados, e cada vídeo somente pode exibido caso seu status esteja em “A” (ativo).
-RN02
+RN02*
 O código de identificação do produto deve ser um número sequencial para ser utilizado como SEQUENCE e crescente de acordo com novos produtos que forem sendo cadastrados.
-RN03
+RN03*
 A descrição normal do produto, sua descrição completa, e o preço unitário são obrigatórios. Já o código de barras padrão EAN13 ou correspondentes deve ser opcional.
 RN04
 Uma categoria de produtos pode estar associada a nenhum ou a vários produtos, e um produto somente pode estar associado a uma categoria.
